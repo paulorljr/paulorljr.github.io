@@ -1,4 +1,4 @@
-# Não deveria ter meu nome aqui?
+# Paulo Ribeiro Lins Júnior
 
 ## Welcome to GitHub Pages
 
