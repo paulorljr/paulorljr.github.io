@@ -1,6 +1,8 @@
 # Paulo Ribeiro Lins Júnior
 
-![](https://github.com/paulorljr/paulorljr.github.io/blob/master/eu-perfil.jpg =100x)
+<p align="center">
+<img alt="drawing" width="200" src="https://github.com/paulorljr/paulorljr.github.io/blob/master/eu-perfil.jpg">
+</p>
 
 ## Welcome to GitHub Pages
 
